@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "bitset": "cpp",
+        "set": "cpp"
     }
 }
